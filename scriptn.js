@@ -16,7 +16,7 @@
     });
 
     var typed=new Typed(".typing",{
-          strings: ["programer","freelancer","bloger","developer"],
+          strings: ["programer","freelancer","blogger","developer"],
           typeSpeed:100,
           backSpeed:70,
           loop:true
